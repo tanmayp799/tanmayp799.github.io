@@ -45,6 +45,11 @@ main {
   align-items: center;
 }
 
+.left {
+  display: inline-flex;
+  align-items: flex-start;
+}
+
 .link {
   color: var(--clr-primary);
   padding: 0 0 0.3em 0;
