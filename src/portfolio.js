@@ -81,9 +81,9 @@ const skills = [
   // if there are no skills, Skills section won't show up
   'C++',
   'Python',
-  'Java',
   'Bash',
   'Git',
+  'Java',
   'HTML',
   'CSS',
   'Web Scraping',
