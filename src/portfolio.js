@@ -14,7 +14,7 @@ const about = {
     ' I am a competitive and hardworking individual always trying to perform better than yesterday.' +
     ' I like solving real world problems, and with my grit, I can be counted on to get the work done.' +
     'I am always open to networking and believe in learning from wherever I can.',
-  resume: 'https://bighome.iitb.ac.in/index.php/s/YSgKEgyR4Mtfg6Y',
+  resume: 'https://bighome.iitb.ac.in/index.php/s/3y9GxYcst5KFp4m',
   social: {
     linkedin: 'https://www.linkedin.com/in/tanmay-patil-8129b6226/',
     github: 'https://github.com/tanmayp799',
