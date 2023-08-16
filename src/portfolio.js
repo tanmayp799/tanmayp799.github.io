@@ -95,7 +95,7 @@ const skills = [
   'C++',
   'Python',
   'Bash',
-  'Git',,
+  'Git',
   'HTML',
   'CSS',
   'Web Scraping',
