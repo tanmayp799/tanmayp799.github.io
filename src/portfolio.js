@@ -7,14 +7,10 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Tanmay Patil',
-  role: 'CSE Sophomore at IIT Bombay',
+  role: 'CSE Junior at IIT Bombay',
   description:
-    'I am an AI-ML Enthusiast, currently deep diving into the field. I also find myself interested in various algorithms and have fun studying and implementing them.' +
-    ' Apart from coding, I am also interested in financial markets.' +
-    ' I am a competitive and hardworking individual always trying to perform better than yesterday.' +
-    ' I like solving real world problems, and with my grit, I can be counted on to get the work done.' +
-    'I am always open to networking and believe in learning from wherever I can.',
-  resume: 'https://bighome.iitb.ac.in/index.php/s/3y9GxYcst5KFp4m',
+    'Hello!',
+  resume: 'https://drive.google.com/file/d/1-s_EmxjSkeQxiD-4_-gE-S8JCUn8hA18/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/tanmay-patil-8129b6226/',
     github: 'https://github.com/tanmayp799',
@@ -74,6 +70,23 @@ const projects = [
     sourceCode:
       'https://github.com/ATAck-Portal-for-Courses/Portal-For-Courses',
   },
+  {
+    name: 'File Transfer Protocol(FTP) Simulation',
+    description: 
+      'Implemented an FTP using Socket Programming in C++ in multiple phases, with increasing functionality in each phase.',
+    stack: ['C++','Socket Programming','Computer Networks'],
+    sourceCode:
+      'https://github.com/tanmayp799/SimpleFTP',
+  },
+  {
+    name: 'Improving Program using Michroarchitecture Enhancements',
+    description:
+      'Used VTune profiler to identify and enhance program Hotspots. Implemented and tested inclusion policies in ChampSim simulator.',
+    stack: ['C++','VTune','ChampSim','Computer Architecture'],
+    sourceCode:
+      'https://github.com/tanmayp799/CS230-Project',
+  },
+
 ]
 
 const skills = [
@@ -82,18 +95,22 @@ const skills = [
   'C++',
   'Python',
   'Bash',
-  'Git',
-  'Java',
+  'Git',,
   'HTML',
   'CSS',
   'Web Scraping',
   'JavaScript',
   'MongoDB',
-  'React',
-  'Nodejs',
+  'ReactJS',
+  'NodeJS',
+  'ExpressJS',
   'SQL',
-  'AWK',
-  'SED',
+  'VTune',
+  'VHDL',
+  'Tensorflow',
+  'Keras',
+  'Tableau',
+  'AWS',
 ]
 
 const contact = {
